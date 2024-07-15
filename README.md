@@ -1,5 +1,8 @@
 # PRODIGY_WD_02
 PIT/JUN24/10732
+
+## stopwatch
+![Screenshot 2024-07-15 131121](https://github.com/user-attachments/assets/b1f725bd-b8f5-4e94-b947-eefc91bbd0d8)
 ## Features
 Start: Begins the stopwatch timer.
 Stop: Pauses the stopwatch timer.
